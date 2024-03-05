@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bolanlew
+- 👋 Hi, I’m @bolanle wahab
 - 👀 I’m interested in Web development and wordpress
 - 🌱 I’m currently learning Responsive web design 
 - 💞️ I’m looking to collaborate on Open Source projects
